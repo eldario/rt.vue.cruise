@@ -1,6 +1,6 @@
 # test-project
 
-> A Vue.js project
+> First try to make cruise search form by NODEjs
 
 ## Build Setup
 
