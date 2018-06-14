@@ -1,6 +1,6 @@
-# test-project
+# Cruise.Vue project
 
-> First try to make cruise search form by NODEjs
+> First try to make cruise search form by NODEjs. beta. 
 
 ## Build Setup
 
